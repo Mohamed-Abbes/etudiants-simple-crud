@@ -1,5 +1,5 @@
 <h4>Home Page:</h4>
-![image](https://github.com/user-attachments/assets/a64275d8-a3fd-44af-887d-2dda200c3996)
+![image](https://github.com/user-attachments/assets/9b586ed7-5932-41e0-9edb-afe612aa0826)
 
 
 Adding student to the list:
